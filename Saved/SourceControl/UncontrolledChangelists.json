@@ -6,7 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Users/muhdi/Documents/Unreal Projects/Unreal-Passthrough/Content/Passthrough/Materials/PokeAHole/mPokeAHoleTransition1.uasset",
-				"D:/Users/muhdi/Documents/Unreal Projects/Unreal-Passthrough/Content/Passthrough/Maps/PTMasked.umap"
+				"D:/Users/muhdi/Documents/Unreal Projects/Unreal-Passthrough/Content/Passthrough/Maps/PTMasked.umap",
+				"D:/Users/muhdi/Documents/Unreal Projects/Unreal-Passthrough/Content/Passthrough/Materials/PokeAHole/mPokeAHoleMask1.uasset",
+				"D:/Users/muhdi/Documents/Unreal Projects/Unreal-Passthrough/Content/Passthrough/Materials/Brush/mTransparent1.uasset",
+				"D:/Users/muhdi/Documents/Unreal Projects/Unreal-Passthrough/Content/Passthrough/Materials/Brush/mTransparentSmooth1.uasset",
+				"D:/Users/muhdi/Documents/Unreal Projects/Unreal-Passthrough/Content/Passthrough/Maps/PTMaskedBrush.umap",
+				"D:/Users/muhdi/Documents/Unreal Projects/Unreal-Passthrough/Content/Passthrough/Maps/PTLayerResumedEvent.umap"
 			]
 		}
 	]
